@@ -3,7 +3,6 @@ package chapter3;
 import java.util.Scanner;
 
 public class SalaryCalculator {
-
     /*
     IF Statement.
     All Salespeople get a payment of $1000 per week.
