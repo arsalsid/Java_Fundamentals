@@ -20,7 +20,7 @@ public class QuotaCalculator {
 
         if (sales >= quota){
 
-            System.out.println("Congratulations! You 've met the quota...");
+            System.out.println("Congratulations! You've met the quota...");
         }
         else {
             int salesShort = quota - sales;
