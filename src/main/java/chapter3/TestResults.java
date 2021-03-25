@@ -3,7 +3,9 @@ package chapter3;
 import java.util.Scanner;
 
 public class TestResults {
-
+        /*
+        The If-Else-If _Statement
+         */
     public static void main(String[] args) {
 
         //Get the test score
