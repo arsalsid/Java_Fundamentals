@@ -9,7 +9,7 @@ public class Jatin_Array {
         int x [] = new int [3]; //Declaration of array, memory and size of array//
 
 */
-        /* Types of writing array :01
+        /* 1st type of write array
 
         int totalOfFiveItems [] = new int [5];//size of the array
         totalOfFiveItems[0] =32;
