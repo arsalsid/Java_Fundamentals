@@ -8,7 +8,7 @@ public class Book {
     private String copyrightDate;
 
     public Book (String title , String author ,String publisher , String copyrightDate)
-    git{
+    {
         this.title = title;
         this.author = author;
         this.publisher = publisher;
