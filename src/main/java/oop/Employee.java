@@ -8,11 +8,6 @@ public class Employee {
     private String empId;
 
 
-    
-
-
-
-
     //Getter and Setters
     public String getName () {
 
