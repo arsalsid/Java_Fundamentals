@@ -1,4 +1,4 @@
-package oop;
+package Encapsulation;
 
 public class MultiSphere {
     public static void main(String[] args) {

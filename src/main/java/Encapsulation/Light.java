@@ -1,4 +1,4 @@
-package oop;
+package Encapsulation;
 
 public class Light {
     public static void main(String[] args) {

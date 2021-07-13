@@ -1,4 +1,4 @@
-package oop;
+package Encapsulation;
 
 public class Bulb {
 
