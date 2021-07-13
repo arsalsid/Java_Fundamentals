@@ -5,6 +5,12 @@ import java.util.Scanner;
 /*
 * Reverse String through Bubble sort
 */
+
+/*
+
+Reverse String without using built in function
+
+*/
 public class ReverseStringSorting{
     public static void main(String[] args) {
 
