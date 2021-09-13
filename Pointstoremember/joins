@@ -28,7 +28,7 @@ ON table1.column_name = table2.column_name;
 
 ////Full outer join////
 
-Returns all records when there is a match in either left or right table
+Returns all records when there is animal match in either left or right table
 
 SELECT column_name(s)
 FROM table1

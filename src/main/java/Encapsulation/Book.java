@@ -47,7 +47,6 @@ public class Book {
     public void setCopyRight(String copyRight) {
         this.copyrightDate = copyRight;
     }
-
     @Override
     public String toString() {
         return "Book [" + "title = ' " + title + '\'' + ", author =' " + author + '\'' + ", publisher =' " + publisher + '\'' + ", copyrightDate =' " + copyrightDate + '\'' + ']';
